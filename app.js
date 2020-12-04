@@ -13,3 +13,4 @@ document.write("<p>Twitter</p>");
 // esta version esta obsoleta debido a la actualizacion de las imagenes tiende a bugearse el canvas y  no deja de funcionar //
 // hay que hacer un nuevo analisis al codigo clave y fuente del codigo de las imagenes para evitar este error //
 // version base elaborada y escrita por DiegoG1 //
+// ndanfhehdolmafn ebcetyenebe dgbw dggw d wfbw wbeg ebdfdbegheheh . eghendgnbd
