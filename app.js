@@ -14,3 +14,4 @@ document.write("<p>Twitter</p>");
 // hay que hacer un nuevo analisis al codigo clave y fuente del codigo de las imagenes para evitar este error //
 // version base elaborada y escrita por DiegoG1 //
 // ndanfhehdolmafn ebcetyenebe dgbw dggw d wfbw wbeg ebdfdbegheheh . eghendgnbd
+adadsdawdasdadwadwadwasdwadawdwad
